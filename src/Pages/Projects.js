@@ -18,7 +18,7 @@ const Projects = (props) =>{
               </svg>Liveserver</a>
               </div>
           </div>
-          //<img src={props.img} alt="" className="project-img" />
+          
       </div>
       </div>
       </div>
