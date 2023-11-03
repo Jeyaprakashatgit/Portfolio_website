@@ -26,7 +26,7 @@ const Mywork = () =>{
             
             {/* <div className="mywork-container"> */}
             {data.map((value)=>{
-            return <Projects linkedin={value.linkedin} gitrepo={value.gitRepo} liveServer={value.liveServer} description={value.description} img={value.imgSrc} title={value.title}/>
+            return <Projects linkedin={value.linkedin} gitrepo={value.gitRepo} liveServer={value.liveServer} description={value.description}  title={value.title}/>
             })}
             </div>
       
